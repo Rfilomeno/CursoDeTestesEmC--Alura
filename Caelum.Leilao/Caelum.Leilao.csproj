@@ -44,8 +44,9 @@
   <ItemGroup>
     <Compile Include="Avaliador.cs" />
     <Compile Include="FiltroDeLances.cs" />
-    <Compile Include="MatemaricaMaluca.cs" />
-    <Compile Include="Palindromo.cs" />
+    <Compile Include="outrasclassesdiferentes\AnoBissexto.cs" />
+    <Compile Include="outrasclassesdiferentes\MatemaricaMaluca.cs" />
+    <Compile Include="outrasclassesdiferentes\Palindromo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

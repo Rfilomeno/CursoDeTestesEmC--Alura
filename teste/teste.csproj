@@ -48,9 +48,12 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnoBissextoTest.cs" />
     <Compile Include="FiltroDeLancesTest.cs" />
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="LeilaoTest.cs" />
+    <Compile Include="AvaliadorTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="CriadorDeLeilao.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
